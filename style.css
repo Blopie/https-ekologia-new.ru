@@ -1,0 +1,199 @@
+body{
+   background: linear-gradient(to right, olive,OliveDrab ,YellowGreen , rgb(4, 1490, 206));
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+  heigh:1000vh;
+}
+.header{
+ 
+  width: 100%;
+  height: 80px;
+  background:olive;
+  border-radius: 0px 0px 15px 15px;
+  font-size:50px;
+   color:grey;
+}
+.logo{
+  text-align: right;
+  font-size: 25px;
+  color: white;
+  margin-left: 30px;
+}
+.parallax_1{
+  
+  background: url(https://dknews.kz/storage/news/2022-09/JdMGqwVs1gAVktnzgn5nEXLvQpgE7xQuSx3PVrJZ.jpg);
+    color:white;
+  background-repeat: no-repeat;
+  height: 445vh;
+  backgroun-position:center;
+  background-size:cover;
+  background-attachment: fixed;
+  font-size:50px;
+}
+.parallax_2{
+  background: url(https://kazpravda.kz/uploads/redactors/images/5a8accc1bfa631519045825.JPG);
+  color:black;
+  background-repeat: no-repeat;
+  height: 330vh;
+  backgroun-position:center;
+  background-size:cover;
+    background-attachment: fixed;
+  font-size:50px;
+}
+.box1{
+  text-align:center;
+  margin-top:5%;
+  width:20%;
+  height:400px;
+  margin-top:100px;
+  margin-left:10%;
+  transition:2s;
+  float:left;
+  box-shadow:0px 0px 10px white;
+  border-radius:20px;
+  border: 5px solid white;
+   color:blue;
+}
+.box2{
+  text-align:center;
+  margin-top:5%;
+  width:20%;
+  height:400px;
+  margin-top:100px;
+  margin-left:10%;
+  transition:2s;
+  float:left;
+  box-shadow:0px 0px 10px white;
+  border-radius:20px;
+  border: 5px solid white;
+   color:blue;
+}
+.box3{
+  text-align:center;
+  margin-top:5%;
+  width:20%;
+  height:400px;
+  margin-top:100px;
+  margin-left:10%;
+  transition:2s;
+  float:left;
+  box-shadow:0px 0px 10px white;
+  border-radius:20px;
+  border: 5px solid white;
+   color:blue;
+}
+img{
+  width:100%;
+  height:80%;
+  border-radius:16px; 
+}
+.box1:hover{
+  background:DarkBlue;
+  transform:rotate(360deg);
+}
+.box2:hover{
+  background:red;
+  transform:rotate(360deg);
+}
+.box3:hover{
+  background:SeaGreen;
+  transform:rotate(360deg);
+}
+.box4{
+ text-align:center;
+  margin-top:5%;
+  width:20%;
+  height:400px;
+  margin-top:100px;
+  margin-left:10%;
+  transition:2s;
+  float:left;
+  box-shadow:0px 0px 10px white;
+  border-radius:20px;
+  border: 5px solid white;
+  font-size:21.5px;
+   color:blue;
+}
+.box4:hover{
+  background:Yellow;
+  transform:rotate(360deg);
+}
+.box5:hover{
+  background:Thistle ;
+  transform:rotate(360deg);
+}
+.box6:hover{
+  background:RebeccaPurple;
+  transform:rotate(360deg);
+}
+.box5{
+ text-align:center;
+  margin-top:5%;
+  width:20%;
+  height:400px;
+  margin-top:100px;
+  margin-left:10%;
+  transition:2s;
+  float:left;
+  box-shadow:0px 0px 10px white;
+  border-radius:20px;
+  border: 5px solid white;
+  font-size:20.8px;
+   color:blue;
+}
+.box6{
+ text-align:center;
+  margin-top:5%;
+  width:20%;
+  height:400px;
+  margin-top:100px;
+  margin-left:10%;
+  transition:2s;
+  float:left;
+  box-shadow:0px 0px 10px white;
+  border-radius:20px;
+  border: 5px solid white;
+  font-size:21px;
+  color:Blue ;
+  
+}
+.box7{
+  width:100%;
+  height:60%;
+  background:black;
+  position:absolute;
+  top:1630vh;
+  text-align:center;
+  font-size:30px;
+  color:white;
+
+    
+  
+}
+.got{
+  font-size:30px;
+  
+}
+.parallax_3{
+  background: url(https://kazpravda.kz/uploads/redactors/images/5a8accc1bfa631519045825.JPG);
+  color:black;
+  background-repeat: no-repeat;
+  height: 570vh;
+  backgroun-position:center;
+  background-size:cover;
+    background-attachment: fixed;
+  font-size:45px;
+  
+}
+.parallax_4{
+  background: url(https://strategy24.ru/images/news/201907/ea01e2884f5d8dfe82ed687e7c254727.jpg);
+  color:white;
+  background-repeat: no-repeat;
+  height: 220vh;
+  backgroun-position:center;
+  background-size:cover;
+    background-attachment: fixed;
+  font-size:45px;
+  
+}
